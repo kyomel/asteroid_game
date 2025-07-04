@@ -156,7 +156,7 @@ When hit by a shot:
 ### Installation
 
 1. Ensure Python is installed on your system
-2. Install Pygame: `pip install pygame`
+2. Install Pygame: `uv add pygame`
 3. Clone or download this repository
 
 ### Running the Game
